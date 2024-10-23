@@ -24,7 +24,7 @@ pip install pandas dbfread rarfile
 Run the script with the following command:
 
 ```bash
-python data_processing_script.py
+python main.py
 ```
 
 ## Example
