@@ -18,10 +18,14 @@ Make sure you have the required libraries installed:
 ```bash
 pip install pandas dbfread rarfile
 
+```
+
 ## Usage
 Run the script with the following command:
 
+```bash
 python data_processing_script.py
+```
 
 ## Example
 To execute the script, simply run it in your terminal. It will process the specified directory defined in the script.
